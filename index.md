@@ -1,2 +1,4 @@
-# Weazel News
-We confirm your prejudices!
+---
+layout: home
+author_profile: false
+---
